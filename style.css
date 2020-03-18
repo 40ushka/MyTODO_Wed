@@ -66,7 +66,7 @@ ul li.checked::before {
 
 .close:hover {
     background-color: #f44336;
-    color: white;
+    color: #ffffff;
 }
 
 /* Style the header */
